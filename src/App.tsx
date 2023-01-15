@@ -11,31 +11,6 @@ import { CharactersViewer } from './component/CharactersViewer';
 import { showNotification } from '@mantine/notifications';
 
 
-export enum APPMODE {
-  CREATE = "create",
-  UPDATE = "update",
-  PLAY = "play",
-}
-const oneTemplate ={
-  superieur: 'William',
-  caracs: {
-    Force: 4,
-    Agilite: 2,
-    Perception: 3,
-    Volonte: 5,
-    Presence: 2,
-    Foi: 2
-  },
-  talents: {Combat: 4, Resistance: 3},
-  pouvoirs_vanilla: {idkfa:3, iddqd:null},
-  pouvoir_15pp: {},
-  pouvoir_20pp: {comegetsome:1},
-  pouvoir_25pp: {},
-  pouvoir_30pp: {}
-};
-
-
-
 function App() {
   const [generatedNpcs,setGeneratedNpcs] = useState<Character[]>([]);
   const [appMode, setAppMode] = useState("create");

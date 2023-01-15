@@ -40,7 +40,7 @@ export const OneViewedCharacter = (props: {characterSheet:Character}) =>{
               </>
           );
       });
-      const pouvoirRows20pp = Object.entries(characterSheet.pouvoirs_15pp).map(([key, value]) => {
+      const pouvoirRows20pp = Object.entries(characterSheet.pouvoirs_20pp).map(([key, value]) => {
         if(typeof(value)=="string"){
             return <></>
         }
@@ -54,8 +54,35 @@ export const OneViewedCharacter = (props: {characterSheet:Character}) =>{
               </>
           );
       });
-      const allPouvoirRows = [pouvoirRowsVanilla, pouvoirRows15pp, pouvoirRows20pp
-        // , pouvoirRows25pp, pouvoirRows30pp
+      const pouvoirRows25pp = Object.entries(characterSheet.pouvoirs_25pp).map(([key, value]) => {
+        if(typeof(value)=="string"){
+            return <></>
+        }
+        
+          return (
+              <>
+                  <tr key={key}>
+                      <td>{key}</td>
+                      <td>{value}</td>
+                  </tr>
+              </>
+          );
+      });
+      const pouvoirRows30pp = Object.entries(characterSheet.pouvoirs_30pp).map(([key, value]) => {
+        if(typeof(value)=="string"){
+            return <></>
+        }
+        
+          return (
+              <>
+                  <tr key={key}>
+                      <td>{key}</td>
+                      <td>{value}</td>
+                  </tr>
+              </>
+          );
+      });      const allPouvoirRows = [pouvoirRowsVanilla, pouvoirRows15pp, pouvoirRows20pp
+        , pouvoirRows25pp, pouvoirRows30pp
     ];
 
     return (
