@@ -1,12 +1,14 @@
-import React, { useState } from 'react';
-import logo from './logo.svg';
+import { useState } from 'react';
 import './App.css';
-import { AppShell, Dialog, Group, Header, NumberInput, SegmentedControl, Stack, Title, Text, Button, Select } from '@mantine/core';
-import { CharacterTemplater } from './component/CharacterTemplater';
+import { AppShell, Group, Header, SegmentedControl, Tabs, Title } from '@mantine/core';
 
-import quick_ange from "./helper/constant/quick_ange.json"
-import quick_demon from "./helper/constant/quick_demon.json"
+import { CharacterCreator } from './component/CharacterCreator';
+import { IconPhoto, IconMessageCircle, IconSettings, IconList, IconUserPlus, IconX, IconCheck } from '@tabler/icons';
 import { CharacterTemplate } from './helper/constant/CharacterTemplate';
+import { Character } from "./helper/constant/Character";
+import { calcCaraValues, calcTalentValues, calcPouvoirVanillaValues, calcPouvoir15ppValues, calcPouvoir20ppValues, calcPouvoir25ppValues, calacPouvoir30ppValues } from './helper/utils';
+import { CharactersViewer } from './component/CharactersViewer';
+import { showNotification } from '@mantine/notifications';
 
 
 export enum APPMODE {
@@ -35,14 +37,70 @@ const oneTemplate ={
 
 
 function App() {
-  const [pp, setPp] = useState(10);
-  const [faction, setFaction] = useState<string | null>("Ange");
-  const [template, setTemplate] = useState<CharacterTemplate|null>();
-  const all_ange = quick_ange.map((ange:CharacterTemplate)=> <CharacterTemplater pp={pp} characterTemplate={ange} isAnge={true} setTemplate={setTemplate}/>)
-  const all_demon = quick_demon.map((demon:CharacterTemplate)=> <CharacterTemplater pp={pp} characterTemplate={demon} isAnge={false} setTemplate={setTemplate}/>)
+  const [generatedNpcs,setGeneratedNpcs] = useState<Character[]>([]);
+  const [appMode, setAppMode] = useState("create");
 
-  let allCara = faction==="Ange" ? all_ange : all_demon;
+  
+  const addNpc = (pp:number, template:CharacterTemplate | null | undefined, name:string, faction:string|null) =>{
+    if(template === null || template === undefined){
+      showNotification({
+        color: 'red',
+        icon: <IconX />,
+        message: "Superieur manquant"
+      })
+      return
 
+    }
+
+      if(name ===""){
+        showNotification({
+          color: 'red',
+          icon: <IconX />,
+          message: "Nom Manquant"
+        })
+        return
+      }
+      if(template !== null && template !== undefined){
+
+      const caraValues: { [key: string]: number; } = calcCaraValues(template.caracs, pp);
+      const talentValues: { [key: string]: number | undefined; } = calcTalentValues(template.talents, pp);
+      const pouvoirVanillaValues: { [key: string]: number | undefined | null; } = calcPouvoirVanillaValues(template.pouvoirs_vanilla, pp);
+      const pouvoir15ppValues: { [key: string]: number | undefined | null | string; } = calcPouvoir15ppValues(template.pouvoirs_15pp, pp);
+      const pouvoir20ppValues: { [key: string]: number | undefined | null | string; } = calcPouvoir20ppValues(template.pouvoirs_20pp, pp);
+      const pouvoir25ppValues: { [key: string]: number | undefined | null | string; } = calcPouvoir25ppValues(template.pouvoirs_25pp, pp);
+      const pouvoir30ppValues: { [key: string]: number | undefined | null | string; } = calacPouvoir30ppValues(template.pouvoirs_30pp, pp); 
+  
+      const myNewPerso : Character ={
+          name: name,
+          pp: pp,
+          faction: faction,
+          superieur: template.superieur,
+          caracs : {Force: caraValues.Force, Agilite: caraValues.Agilite, Perception: caraValues.Perception, Volonte: caraValues.Volonte, Presence: caraValues.Presence, Foi: caraValues.Foi},
+          talents: talentValues,
+          pouvoirs_vanilla : pouvoirVanillaValues,
+          pouvoirs_15pp: pouvoir15ppValues,
+          pouvoirs_20pp: pouvoir20ppValues,
+          pouvoirs_25pp: pouvoir25ppValues,
+          pouvoirs_30pp: pouvoir30ppValues
+      }
+      generatedNpcs.push(myNewPerso)
+      setGeneratedNpcs(generatedNpcs);
+      showNotification({
+        color: 'Green',
+        icon: <IconCheck />,
+        message: "Personnage crée"
+      })
+
+    }
+  };
+
+  let mainPanel;
+
+  if(appMode==="create"){
+    mainPanel= <CharacterCreator addNpc={addNpc} />
+  }else{
+    mainPanel= <CharactersViewer npcs={generatedNpcs} />
+  }
 
   return (
 
@@ -52,16 +110,14 @@ function App() {
       // aside={aside}
       header={
         <Header height={60} p="xs">
-          <Group>
             <Title>Générateur de personnage INS/MV "kleenex" </Title>
-            {/* <SegmentedControl
-              // onChange={setAppMode}
+            <SegmentedControl
+              onChange={setAppMode}
               data={[
-                { label: "Créer", value: APPMODE.CREATE },
-                { label: "Voir", value: APPMODE.UPDATE },
+                { label: "Créer", value: "create" },
+                { label: "Voir", value: "see" }
               ]}
-            /> */}
-          </Group>
+            />
         </Header>
       }
       styles={(theme) => ({
@@ -73,39 +129,8 @@ function App() {
         },
       })}
     >
+      {mainPanel}
       
-      <Stack>
-      <Title>Collection</Title>
-
-      </Stack>
-
-      <Stack>
-        <Title>Créateur</Title>
-        <Dialog
-        opened={true}
-        size="lg"
-        radius="md"
-        >
-        <Stack>
-          <Select label="Faction" value={faction} onChange={setFaction} data={['Ange','Demon']} />
-
-          <Text size="sm" style={{ marginBottom: 10 }} weight={500}>
-            PP
-          </Text>
-
-          <NumberInput value={pp} onChange={(val:number) => setPp(val)} min={10} />
-
-          <Text>
-            Superieur: {template?.superieur}
-          </Text>
-          {/* <Button onClick={() => console.log("meh")}>Ajouter</Button> */}
-
-        </Stack>
-        </Dialog>
-  
-        {allCara}
-          
-      </Stack>
 
     </AppShell>
   );
