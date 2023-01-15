@@ -1,0 +1,789 @@
+[
+  {
+    "superieur": "Alain",
+    "caracs": {
+      "Force": 3,
+      "Agilite": 3,
+      "Perception": 5,
+      "Volonte": 3,
+      "Presence": 4,
+      "Foi": 4
+    },
+    "talents": {
+      "Attaque": 3,
+      "Défense": 4,
+      "Physique": 4,
+      "Mental": 3,
+      "Social": 4,
+      "Médecine": 5,
+      "Survie": 6
+    },
+    "pouvoirs_vanilla": {
+      "Abondance": 2,
+      "Aura de pacification": 1,
+      "Bénédiction : fertilité": 1
+    },
+    "pouvoirs_15pp": {
+      "Anaérobiose": null,
+      "Caméléon": 1
+    },
+    "pouvoirs_20pp": {
+      "Charme": 1
+    },
+    "pouvoirs_25pp": {
+      "Téléportation": 1
+    },
+    "pouvoirs_30pp": {
+      "arc long béni majeur (précision +0 puissance +6 portée moyenne)": null
+    }
+  },
+  {
+    "superieur": "Ange",
+    "caracs": {
+      "Force": 3,
+      "Agilite": 3,
+      "Perception": 3,
+      "Volonte": 4,
+      "Presence": 4,
+      "Foi": 5
+    },
+    "talents": {
+      "Attaque": 3,
+      "Défense": 4,
+      "Physique": 3,
+      "Mental": 4,
+      "Social": 5,
+      "Discussion": 7
+    },
+    "pouvoirs_vanilla": {
+      "Assaut spirituel": 2,
+      "Charme": 1,
+      "Volonte supra-normale": 1
+    },
+    "pouvoirs_15pp": {
+      "Boomerang": 1,
+      "Protection de l'âme": null
+    },
+    "pouvoirs_20pp": {
+      "Arts martiaux": 1
+    },
+    "pouvoirs_25pp": {
+      "Lecture d'aura": 1
+    },
+    "pouvoirs_30pp": {
+      "Perturbation de pouvoir": 1
+    }
+  },
+  {
+    "superieur": "Blandine",
+    "caracs": {
+      "Force": 2,
+      "Agilite": 3,
+      "Perception": 4,
+      "Volonte": 5,
+      "Presence": 4,
+      "Foi": 4
+    },
+    "talents": {
+      "Attaque": 2,
+      "Défense": 3,
+      "Physique": 2,
+      "Mental": 4,
+      "Social": 5,
+      "Narcolepsie": 7
+    },
+    "pouvoirs_vanilla": {
+      "Lire les pensées": 1,
+      "Réve divin": 2,
+      "Sommeil": 1
+    },
+    "pouvoirs_15pp": {
+      "Cauchemar": 1,
+      "Détection du mensonge": 1
+    },
+    "pouvoirs_20pp": {
+      "Charme": 1
+    },
+    "pouvoirs_25pp": {
+      "Télépathie": 1
+    },
+    "pouvoirs_30pp": {
+      "Chant angélique": 1
+    }
+  },
+  {
+    "superieur": "Christophe",
+    "caracs": {
+      "Force": 3,
+      "Agilite": 5,
+      "Perception": 4,
+      "Volonte": 3,
+      "Presence": 3,
+      "Foi": 4
+    },
+    "talents": {
+      "Attaque": 2,
+      "Défense": 4,
+      "Physique": 5,
+      "Mental": 3,
+      "Social": 4,
+      "Contorsionnisme": 5,
+      "Humour": 4
+    },
+    "pouvoirs_vanilla": {
+      "Coup de bol": 1,
+      "Enfance": 2,
+      "Réduction": 1
+    },
+    "pouvoirs_15pp": {
+      "Aura d'inattention": 1
+    },
+    "pouvoirs_20pp": {
+      "Élastique": 1
+    },
+    "pouvoirs_25pp": {
+      "Bénédiction : rajeunissement": 1
+    },
+    "pouvoirs_30pp": {
+      "Polymorphie": 1
+    }
+  },
+  {
+    "superieur": "Daniel",
+    "caracs": {
+      "Force": 4,
+      "Agilite": 4,
+      "Perception": 5,
+      "Volonte": 4,
+      "Presence": 2,
+      "Foi": 3
+    },
+    "talents": {
+      "Attaque": 6,
+      "Défense": 5,
+      "Physique": 5,
+      "Mental": 3,
+      "Social": 2
+    },
+    "pouvoirs_vanilla": {
+      "Arme exaltée": 1,
+      "Armure corporelle (Pierre)": 1,
+      "Pétrification": 2
+    },
+    "pouvoirs_15pp": {
+      "Peur": 1
+    },
+    "pouvoirs_20pp": {
+      "batte bénie mineure (précision +1 puissance +4)": null
+    },
+    "pouvoirs_25pp": {
+      "Télékinésie": 1
+    },
+    "pouvoirs_30pp": {
+      "Aura de courage": 1,
+      "batte bénie majeure (précision +3 puissance +6)": null
+    }
+  },
+  {
+    "superieur": "Didier",
+    "caracs": {
+      "Force": 3,
+      "Agilite": 3,
+      "Perception": 3,
+      "Volonte": 5,
+      "Presence": 5,
+      "Foi": 3
+    },
+    "talents": {
+      "Attaque": 3,
+      "Défense": 3,
+      "Physique": 3,
+      "Mental": 5,
+      "Social": 5
+    },
+    "pouvoirs_vanilla": {
+      "Illusions": 1,
+      "Message officiel": null,
+      "Langage universel": null,
+      "Télépathie": 2
+    },
+    "pouvoirs_15pp": {
+      "Téléportation": 1
+    },
+    "pouvoirs_20pp": {
+      "Corps digital": null
+    },
+    "pouvoirs_25pp": {
+      "Réve": 1
+    },
+    "pouvoirs_30pp": {
+      "Non-détection": 1
+    }
+  },
+  {
+    "superieur": "Dominique",
+    "caracs": {
+      "Force": 2,
+      "Agilite": 2,
+      "Perception": 3,
+      "Volonte": 5,
+      "Presence": 5,
+      "Foi": 5
+    },
+    "talents": {
+      "Attaque": 3,
+      "Défense": 4,
+      "Physique": 3,
+      "Mental": 5,
+      "Social": 6,
+      "Sixième sens": 6
+    },
+    "pouvoirs_vanilla": {
+      "Détection du Mal": 1,
+      "Détection du mensonge": 2,
+      "Jugement": 1
+    },
+    "pouvoirs_15pp": {
+      "Lire les pensées": 1
+    },
+    "pouvoirs_20pp": {
+      "Jet d'eau bénite": 1
+    },
+    "pouvoirs_25pp": {
+      "Lumiere céleste": 1
+    },
+    "pouvoirs_30pp": {
+      "Peur": 1,
+      "Perturbation de pouvoir": 1
+    }
+  },
+  {
+    "superieur": "Francis",
+    "caracs": {
+      "Force": 3,
+      "Agilite": 3,
+      "Perception": 4,
+      "Volonte": 4,
+      "Presence": 5,
+      "Foi": 3
+    },
+    "talents": {
+      "Attaque": 2,
+      "Défense": 3,
+      "Physique": 3,
+      "Mental": 4,
+      "Social": 6,
+      "Discussion": 7
+    },
+    "pouvoirs_vanilla": {
+      "Alliance": 2,
+      "Charme": 1,
+      "Lire les pensées": 1
+    },
+    "pouvoirs_15pp": {
+      "Détection du mensonge": 1
+    },
+    "pouvoirs_20pp": {
+      "Aura de pacification": 1
+    },
+    "pouvoirs_25pp": {
+      "Voix impérieuse": 1
+    },
+    "pouvoirs_30pp": {
+      "Volonte supra- normale": 1,
+      "Conversion mentale": 1
+    }
+  },
+  {
+    "superieur": "Guy",
+    "caracs": {
+      "Force": 3,
+      "Agilite": 3,
+      "Perception": 3,
+      "Volonte": 5,
+      "Presence": 3,
+      "Foi": 5
+    },
+    "talents": {
+      "Attaque": 2,
+      "Défense": 3,
+      "Physique": 2,
+      "Mental": 4,
+      "Social": 4,
+      "Médecine": 7
+    },
+    "pouvoirs_vanilla": {
+      "Bénédiction : guérison de folies": 1,
+      "Bénédiction : guérison de maladie": 1,
+      "Guérison": 1
+    },
+    "pouvoirs_15pp": {
+      "Immunité contre les maladies et les poisons": null,
+      "Régénération": 1
+    },
+    "pouvoirs_20pp": {
+      "Aura de pacification": 1,
+      "Conversion physique": 1
+    },
+    "pouvoirs_25pp": {
+      "Détection du danger": 1
+    },
+    "pouvoirs_30pp": {
+      "Téléportation": 1
+    }
+  },
+  {
+    "superieur": "Janus",
+    "caracs": {
+      "Force": 3,
+      "Agilite": 5,
+      "Perception": 4,
+      "Volonte": 3,
+      "Presence": 4,
+      "Foi": 3
+    },
+    "talents": {
+      "Attaque": 3,
+      "Défense": 4,
+      "Physique": 5,
+      "Mental": 4,
+      "Social": 5,
+      "Pickpocket": 7
+    },
+    "pouvoirs_vanilla": {
+      "Déguisement superficiel": 1,
+      "Obscurité": 1,
+      "Ouverture": 2
+    },
+    "pouvoirs_15pp": {
+      "Détection du danger": 1
+    },
+    "pouvoirs_20pp": {
+      "Charme": 1
+    },
+    "pouvoirs_25pp": {
+      "Déphasage": 1
+    },
+    "pouvoirs_30pp": {
+      "revolver petit calibre béni majeur (précision +2 puissance +7 pénétration importante portée moyenne)": null
+    }
+  },
+  {
+    "superieur": "Jean",
+    "caracs": {
+      "Force": 3,
+      "Agilite": 3,
+      "Perception": 4,
+      "Volonte": 5,
+      "Presence": 3,
+      "Foi": 4
+    },
+    "talents": {
+      "Attaque": 2,
+      "Défense": 3,
+      "Physique": 3,
+      "Mental": 6,
+      "Social": 3,
+      "Science": 7,
+      "Technique": 6
+    },
+    "pouvoirs_vanilla": {
+      "Champ électrique": 1,
+      "Immunité contre l'électricité": null,
+      "Innovation": 2,
+      "Volonte supra-normale": 1
+    },
+    "pouvoirs_15pp": {
+      "Décharge électrique": 1
+    },
+    "pouvoirs_20pp": {
+      "Corps électrique": null,
+      "Rafistolage": 1
+    },
+    "pouvoirs_25pp": {
+      "Parasite intellectuel": 1
+    },
+    "pouvoirs_30pp": {
+      "Esprits multiples": 1
+    }
+  },
+  {
+    "superieur": "Jean-Luc",
+    "caracs": {
+      "Force": 5,
+      "Agilite": 4,
+      "Perception": 4,
+      "Volonte": 3,
+      "Presence": 2,
+      "Foi": 4
+    },
+    "talents": {
+      "Attaque": 5,
+      "Défense": 7,
+      "Physique": 5,
+      "Mental": 4,
+      "Social": 3
+    },
+    "pouvoirs_vanilla": {
+      "Armure corporelle": 2,
+      "Aura de pacification": 1,
+      "Sacrifice ultime": 1
+    },
+    "pouvoirs_15pp": {
+      "Champ de force": 1,
+      "Protection partagée": null
+    },
+    "pouvoirs_20pp": {
+      "Champ magnétique": 1
+    },
+    "pouvoirs_25pp": {
+      "Conversion physique": 1
+    },
+    "pouvoirs_30pp": {
+      "Conversion mentale": 1,
+      "Volonte supra-normale": 1
+    }
+  },
+  {
+    "superieur": "Jordi",
+    "caracs": {
+      "Force": 3,
+      "Agilite": 3,
+      "Perception": 5,
+      "Volonte": 4,
+      "Presence": 3,
+      "Foi": 4
+    },
+    "talents": {
+      "Attaque": 4,
+      "Défense": 4,
+      "Physique": 4,
+      "Mental": 4,
+      "Social": 5,
+      "Langage animal": 6
+    },
+    "pouvoirs_vanilla": {
+      "Appel des animaux": 1,
+      "Caméléon": 1,
+      "Contrôle des animaux": 2
+    },
+    "pouvoirs_15pp": {
+      "Détection du danger": 1
+    },
+    "pouvoirs_20pp": {
+      "Jeûne": null,
+      "Sens surdéveloppés": null
+    },
+    "pouvoirs_25pp": {
+      "Anaérobiose": null,
+      "Régénération": 1
+    },
+    "pouvoirs_30pp": {
+      "Immunité contre les maladies et les poisons": null,
+      "Armure corporelle (pierre)": 1
+    }
+  },
+  {
+    "superieur": "Joseph",
+    "caracs": {
+      "Force": 2,
+      "Agilite": 3,
+      "Perception": 4,
+      "Volonte": 5,
+      "Presence": 3,
+      "Foi": 5
+    },
+    "talents": {
+      "Attaque": 3,
+      "Défense": 4,
+      "Physique": 3,
+      "Mental": 4,
+      "Social": 4,
+      "Torture": 7
+    },
+    "pouvoirs_vanilla": {
+      "Détection du mal": 1,
+      "Détection du mensonge": 1,
+      "Torture": 2
+    },
+    "pouvoirs_15pp": {
+      "Lire les pensées": 1
+    },
+    "pouvoirs_20pp": {
+      "Protection de l'âme": null,
+      "Psychométrie": 1
+    },
+    "pouvoirs_25pp": {
+      "Paralysie": 1
+    },
+    "pouvoirs_30pp": {
+      "Perturbation de pouvoir": 1
+    }
+  },
+  {
+    "superieur": "Laurent",
+    "caracs": {
+      "Force": 4,
+      "Agilite": 5,
+      "Perception": 3,
+      "Volonte": 3,
+      "Presence": 3,
+      "Foi": 4
+    },
+    "talents": {
+      "Attaque": 7,
+      "Défense": 7,
+      "Physique": 5,
+      "Mental": 3,
+      "Social": 3,
+      "Savoir militaire": 7
+    },
+    "pouvoirs_vanilla": {
+      "Armure corporelle": 1,
+      "Aura de courage": 1,
+      "Juste-lame": 2
+    },
+    "pouvoirs_15pp": {
+      "Esquive acrobatique": 1,
+      "épée bénie mineure (précision +2, puissance +4)": null
+    },
+    "pouvoirs_20pp": {
+      "Champ de force": 1,
+      "épée bénie majeure (précision +4, puissance +6)": null
+    },
+    "pouvoirs_25pp": {
+      "Supériorité martiale": 1
+    },
+    "pouvoirs_30pp": {
+      "Lueur insoutenable": 1,
+      "épée bénie ancienne (précision +6, puissance +8)": null
+    }
+  },
+  {
+    "superieur": "Marc",
+    "caracs": {
+      "Force": 3,
+      "Agilite": 3,
+      "Perception": 3,
+      "Volonte": 5,
+      "Presence": 5,
+      "Foi": 3
+    },
+    "talents": {
+      "Attaque": 2,
+      "Défense": 4,
+      "Physique": 3,
+      "Mental": 5,
+      "Social": 6
+    },
+    "pouvoirs_vanilla": {
+      "Charme": 1,
+      "Contrat divin": 2,
+      "Lire les pensées": 1
+    },
+    "pouvoirs_15pp": {
+      "Détection du mensonge": 1
+    },
+    "pouvoirs_20pp": {
+      "Aura de pacification": 1
+    },
+    "pouvoirs_25pp": {
+      "Protection de": null,
+      "Volonte supra-normale": 1
+    },
+    "pouvoirs_30pp": {
+      "Esprits multiples": 1,
+      "Domination": 1
+    }
+  },
+  {
+    "superieur": "Mathias",
+    "caracs": {
+      "Force": 3,
+      "Agilite": 3,
+      "Perception": 3,
+      "Volonte": 4,
+      "Presence": 4,
+      "Foi": 5
+    },
+    "talents": {
+      "Attaque": 4,
+      "Défense": 4,
+      "Physique": 4,
+      "Mental": 3,
+      "Social": 5,
+      "Baratin": 7
+    },
+    "pouvoirs_vanilla": {
+      "Apparence démoniaque": 2,
+      "Aura de confusion": 1,
+      "Esquive acrobatique": 1
+    },
+    "pouvoirs_15pp": {
+      "Détection du mensonge": 1
+    },
+    "pouvoirs_20pp": {
+      "Jet": null
+    },
+    "pouvoirs_25pp": {
+      "Téléportation": 1
+    },
+    "pouvoirs_30pp": {
+      "spécial (l'ange obtient un pouvoir réservé à son supérieur démoniaque (Art de combat s'il infiltre Baal, Orgasme mortel s'il infiltre Andrealphus et ainsi de suite)": 1
+    }
+  },
+  {
+    "superieur": "Michel",
+    "caracs": {
+      "Force": 5,
+      "Agilite": 4,
+      "Perception": 3,
+      "Volonte": 4,
+      "Presence": 3,
+      "Foi": 3
+    },
+    "talents": {
+      "Attaque": 7,
+      "Défense": 6,
+      "Physique": 5,
+      "Mental": 2,
+      "Social": 2,
+      "Intimidation": 7,
+      "Savoir militaire": 5
+    },
+    "pouvoirs_vanilla": {
+      "Arme exaltée": 1,
+      "Armure corporelle": 1,
+      "Maîtrise martiale": 2
+    },
+    "pouvoirs_15pp": {
+      "Augmentation de Force": 1,
+      "hache bénie mineure (précision +2 puissance +5 inadaptée à la parade)": null
+    },
+    "pouvoirs_20pp": {
+      "Régénération": 1,
+      "hache bénie majeure (précision +4 puissance +7 inadaptée à la parade)": null
+    },
+    "pouvoirs_25pp": {
+      "Décharge électrique": 1
+    },
+    "pouvoirs_30pp": {
+      "Aura de courage": 1,
+      "hache bénie ancienne (précision +6 puissance +9 inadaptée à la parade)": null
+    }
+  },
+  {
+    "superieur": "Novalis",
+    "caracs": {
+      "Force": 2,
+      "Agilite": 3,
+      "Perception": 5,
+      "Volonte": 4,
+      "Presence": 3,
+      "Foi": 5
+    },
+    "talents": {
+      "Attaque": 2,
+      "Défense": 3,
+      "Physique": 4,
+      "Mental": 5,
+      "Social": 6,
+      "Langage animal": 5,
+      "Survie": 7
+    },
+    "pouvoirs_vanilla": {
+      "Aura de pacification": 1,
+      "Caméléon": 1,
+      "Pollen": 1
+    },
+    "pouvoirs_15pp": {
+      "Adhérence": 1
+    },
+    "pouvoirs_20pp": {
+      "Lire les pensées": 1
+    },
+    "pouvoirs_25pp": {
+      "Charme": 1
+    },
+    "pouvoirs_30pp": {
+      "Chant angélique": 1
+    }
+  },
+  {
+    "superieur": "Walther",
+    "caracs": {
+      "Force": 3,
+      "Agilite": 2,
+      "Perception": 3,
+      "Volonte": 5,
+      "Presence": 4,
+      "Foi": 5
+    },
+    "talents": {
+      "Attaque": 4,
+      "Défense": 5,
+      "Physique": 3,
+      "Mental": 4,
+      "Social": 4,
+      "Enquête": 6,
+      "Hypnotisme": 5
+    },
+    "pouvoirs_vanilla": {
+      "Détection du mal": 1,
+      "Exorcisme": 2,
+      "Paralysie": 1
+    },
+    "pouvoirs_15pp": {
+      "Chant angélique": 1
+    },
+    "pouvoirs_20pp": {
+      "Jet d'eau bénite": 1
+    },
+    "pouvoirs_25pp": {
+      "Lecture d'aura": 1
+    },
+    "pouvoirs_30pp": {
+      "Détection du futur proche": 1,
+      "Psychométrie": 1
+    }
+  },
+  {
+    "superieur": "Yves",
+    "caracs": {
+      "Force": 2,
+      "Agilite": 2,
+      "Perception": 4,
+      "Volonte": 5,
+      "Presence": 4,
+      "Foi": 5
+    },
+    "talents": {
+      "Attaque": 2,
+      "Défense": 4,
+      "Physique": 3,
+      "Mental": 6,
+      "Social": 5,
+      "Discussion": 7,
+      "Savoir occulte": 7
+    },
+    "pouvoirs_vanilla": {
+      "Détection du futur proche": 1,
+      "Lire les pensées": 1,
+      "Philosophie": 2
+    },
+    "pouvoirs_15pp": {
+      "Psychométrie": 1
+    },
+    "pouvoirs_20pp": {
+      "Lueur insoutenable": 1
+    },
+    "pouvoirs_25pp": {
+      "Protection de l'âme": null,
+      "Science infuse": 1
+    },
+    "pouvoirs_30pp": {
+      "Lecture d'aura": 1,
+      "Protection de l'esprit": null
+    }
+  }
+]

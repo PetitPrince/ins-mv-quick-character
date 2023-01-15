@@ -1,0 +1,1153 @@
+[
+    {
+        "superieur": "Abalam",
+        "caracs": {
+            "Force": 2,
+            "Agilite": 2,
+            "Perception": 3,
+            "Volonte": 4,
+            "Presence": 5,
+            "Foi": 2
+        },
+        "talents": {
+            "Attaque": 2,
+            "Défense": 3,
+            "Physique": 4,
+            "Mental": 3,
+            "Social": 5,
+            "Hypnotisme": 6
+        },
+        "pouvoirs_vanilla": {
+            "Camisole": 2,
+            "Malédiction : folie": 1,
+            "Peur": 1
+        },
+        "pouvoirs_15pp": {
+            "Cauchemar": 1
+        },
+        "pouvoirs_20pp": {
+            "Esprit chaotique": null,
+            "Volonte supra-normale": 1
+        },
+        "pouvoirs_25pp": {
+            "Lire les pensées": 1
+        },
+        "pouvoirs_30pp": {
+            "Protection de": null,
+            "Charme": 1
+        }
+    },
+    {
+        "superieur": "Andrealphus",
+        "caracs": {
+            "Force": 2,
+            "Agilite": 3,
+            "Perception": 2,
+            "Volonte": 3,
+            "Presence": 5,
+            "Foi": 3
+        },
+        "talents": {
+            "Attaque": 3,
+            "Défense": 3,
+            "Physique": 4,
+            "Mental": 3,
+            "Social": 5,
+            "Kama Sutra": 7,
+            "Séduction": 7
+        },
+        "pouvoirs_vanilla": {
+            "Charme": 2,
+            "Orgasme mortel": 1,
+            "Polymorphie": 1
+        },
+        "pouvoirs_15pp": {
+            "Étouffement": 1
+        },
+        "pouvoirs_20pp": {
+            "Membre exotique (langue barbelée précision +0 puissance +3 portée tres": null,
+            "Absorption d'énergie sexuelle": 1
+        },
+        "pouvoirs_25pp": {
+            "Malédiction : stérilité": 1,
+            "Membre exotique (petites cornes précision -2 puissance": null
+        },
+        "pouvoirs_30pp": {
+            "Protection de": null,
+            "Charme": 1
+        }
+    },
+    {
+        "superieur": "Andromalius",
+        "caracs": {
+            "Force": 2,
+            "Agilite": 2,
+            "Perception": 2,
+            "Volonte": 4,
+            "Presence": 3,
+            "Foi": 5
+        },
+        "talents": {
+            "Attaque": 4,
+            "Défense": 3,
+            "Physique": 3,
+            "Mental": 4,
+            "Social": 5,
+            "Enquéte": 6,
+            "Sixième sens": 6
+        },
+        "pouvoirs_vanilla": {
+            "Détection du mensonge": 1,
+            "Humanité": 1,
+            "Lire les pensées": 2
+        },
+        "pouvoirs_15pp": {
+            "Membre exotique (sabots précision +0 puissance +2": null,
+            "Volonte supra-normale": 1
+        },
+        "pouvoirs_20pp": {
+            "Détection du bien": 1
+        },
+        "pouvoirs_25pp": {
+            "Champ de force": 1
+        },
+        "pouvoirs_30pp": {
+            "Protection de": null,
+            "Tén&bres sataniques": 1
+        }
+    },
+    {
+        "superieur": "Asmodée",
+        "caracs": {
+            "Force": 2,
+            "Agilite": 3,
+            "Perception": 3,
+            "Volonte": 3,
+            "Presence": 3,
+            "Foi": 4
+        },
+        "talents": {
+            "Attaque": 2,
+            "Défense": 3,
+            "Physique": 4,
+            "Mental": 5,
+            "Social": 5,
+            "Jeu": 7
+        },
+        "pouvoirs_vanilla": {
+            "Illusions": 1,
+            "Pari stupide": 2,
+            "Télékinésie": 1
+        },
+        "pouvoirs_15pp": {
+            "Lire les pensées": 1
+        },
+        "pouvoirs_20pp": {
+            "Détection du futur proche": 1
+        },
+        "pouvoirs_25pp": {
+            "Aura de confusion": 1
+        },
+        "pouvoirs_30pp": {
+            "Protection de": null,
+            "Volonte supra-normale": 1
+        }
+    },
+    {
+        "superieur": "Baal",
+        "caracs": {
+            "Force": 5,
+            "Agilite": 3,
+            "Perception": 3,
+            "Volonte": 2,
+            "Presence": 3,
+            "Foi": 2
+        },
+        "talents": {
+            "Attaque": 7,
+            "Défense": 6,
+            "Physique": 5,
+            "Mental": 3,
+            "Social": 3,
+            "Savoir militaire": 6
+        },
+        "pouvoirs_vanilla": {
+            "Armure corporelle": 1,
+            "Art de combat": 2,
+            "Forme de combat": 1
+        },
+        "pouvoirs_15pp": {
+            "Membre exotique (grandes cornes précision +0 puissance +4, adaptée à la charge)": null,
+            "Peur": 1
+        },
+        "pouvoirs_20pp": {
+            "Champ de force": 1,
+            "arme maudite majeure (selon l'arme)": null
+        },
+        "pouvoirs_25pp": {
+            "Aura de courage": 1
+        },
+        "pouvoirs_30pp": {
+            "Vitesse": 1,
+            "arme maudite ancienne (selon l'arme)": null
+        }
+    },
+    {
+        "superieur": "Baalberith",
+        "caracs": {
+            "Force": 2,
+            "Agilite": 2,
+            "Perception": 3,
+            "Volonte": 4,
+            "Presence": 3,
+            "Foi": 4
+        },
+        "talents": {
+            "Attaque": 3,
+            "Défense": 3,
+            "Physique": 2,
+            "Mental": 5,
+            "Social": 4
+        },
+        "pouvoirs_vanilla": {
+            "Langage universel": null,
+            "Message officiel": null,
+            "Téléportation": 2,
+            "Télépathie": 1
+        },
+        "pouvoirs_15pp": {
+            "Vol": 1
+        },
+        "pouvoirs_20pp": {
+            "Vitesse": 1
+        },
+        "pouvoirs_25pp": {
+            "Protection de": null,
+            "Volonte supra-normale": 1
+        },
+        "pouvoirs_30pp": {
+            "Non- détection": 1
+        }
+    },
+    {
+        "superieur": "Beleth",
+        "caracs": {
+            "Force": 2,
+            "Agilite": 2,
+            "Perception": 2,
+            "Volonte": 4,
+            "Presence": 4,
+            "Foi": 4
+        },
+        "talents": {
+            "Attaque": 3,
+            "Défense": 3,
+            "Physique": 3,
+            "Mental": 4,
+            "Social": 6,
+            "Narcolepsie": 7
+        },
+        "pouvoirs_vanilla": {
+            "Cauchemar mortel": 2,
+            "Charme": 1,
+            "Sommeil": 1
+        },
+        "pouvoirs_15pp": {
+            "Réve": 1
+        },
+        "pouvoirs_20pp": {
+            "Télépathie": 1
+        },
+        "pouvoirs_25pp": {
+            "Hurlement démoniaque": 1
+        },
+        "pouvoirs_30pp": {
+            "Voix impérieuse": 1
+        }
+    },
+    {
+        "superieur": "Belial",
+        "caracs": {
+            "Force": 4,
+            "Agilite": 3,
+            "Perception": 4,
+            "Volonte": 3,
+            "Presence": 2,
+            "Foi": 2
+        },
+        "talents": {
+            "Attaque": 6,
+            "Défense": 6,
+            "Physique": 4,
+            "Mental": 3,
+            "Social": 3
+        },
+        "pouvoirs_vanilla": {
+            "Imrnunité contre le feu": null,
+            "Incendie": 1,
+            "Jet de flammes": 2,
+            "Tourbillon de feu": 1
+        },
+        "pouvoirs_15pp": {
+            "Armure corporelle 1": null
+        },
+        "pouvoirs_20pp": {
+            "Peur": 1
+        },
+        "pouvoirs_25pp": {
+            "Détection du danger 1partir de 30 PP Régénération": 1
+        },
+        "pouvoirs_30pp": {
+            "Voix impérieuse": 1
+        }
+    },
+    {
+        "superieur": "Bifrons",
+        "caracs": {
+            "Force": 5,
+            "Agilite": 4,
+            "Perception": 3,
+            "Volonte": 2,
+            "Presence": 2,
+            "Foi": 2
+        },
+        "talents": {
+            "Attaque": 7,
+            "Défense": 5,
+            "Physique": 5,
+            "Mental": 2,
+            "Social": 2
+        },
+        "pouvoirs_vanilla": {
+            "Armure corporelle": 1,
+            "Forme de combat": 1,
+            "Membre exotique (griffes précision +0 puissance +4)": null,
+            "Peur": 1,
+            "Résurrection macabre": 1
+        },
+        "pouvoirs_15pp": {
+            "Éventration": 1
+        },
+        "pouvoirs_20pp": {
+            "Nécrose": 1
+        },
+        "pouvoirs_25pp": {
+            "Douleur": 1
+        },
+        "pouvoirs_30pp": {
+            "Larves sous-cutanées": 1
+        }
+    },
+    {
+        "superieur": "Caym",
+        "caracs": {
+            "Force": 3,
+            "Agilite": 3,
+            "Perception": 5,
+            "Volonte": 3,
+            "Presence": 2,
+            "Foi": 2
+        },
+        "talents": {
+            "Attaque": 6,
+            "Défense": 5,
+            "Physique": 5,
+            "Mental": 4,
+            "Social": 3,
+            "Langage animal": 4,
+            "Survie": 6
+        },
+        "pouvoirs_vanilla": {
+            "Camouflage": 1,
+            "Membre exotique (dents de sabre précision +2 puissance +2)": null,
+            "Transformation": 2,
+            "Vitesse": 1
+        },
+        "pouvoirs_15pp": {
+            "Contrôle des animaux": 1
+        },
+        "pouvoirs_20pp": {
+            "Poison": 1
+        },
+        "pouvoirs_25pp": {
+            "carabine maudite majeure (précision +3 puissance +8 pénétration importante portée longue)": null
+        },
+        "pouvoirs_30pp": {
+            "Invisibilité": 1
+        }
+    },
+    {
+        "superieur": "Crocell",
+        "caracs": {
+            "Force": 5,
+            "Agilite": 3,
+            "Perception": 3,
+            "Volonte": 2,
+            "Presence": 2,
+            "Foi": 3
+        },
+        "talents": {
+            "Attaque": 6,
+            "Défense": 6,
+            "Physique": 4,
+            "Mental": 3,
+            "Social": 2,
+            "Intimidation": 5
+        },
+        "pouvoirs_vanilla": {
+            "Couche de glace": 1,
+            "Immunité contre le froid": null,
+            "Froid polaire": 1,
+            "Éclats de glace": 2
+        },
+        "pouvoirs_15pp": {
+            "Paralysie": 1
+        },
+        "pouvoirs_20pp": {
+            "Champ magnétique": 1
+        },
+        "pouvoirs_25pp": {
+            "Peur": 1
+        },
+        "pouvoirs_30pp": {
+            "Régénération": 1
+        }
+    },
+    {
+        "superieur": "Furfur",
+        "caracs": {
+            "Force": 4,
+            "Agilite": 3,
+            "Perception": 2,
+            "Volonte": 3,
+            "Presence": 3,
+            "Foi": 3
+        },
+        "talents": {
+            "Attaque": 5,
+            "Défense": 6,
+            "Physique": 5,
+            "Mental": 3,
+            "Social": 4
+        },
+        "pouvoirs_vanilla": {
+            "Absorption de violence": 1,
+            "Onde de choc": 2,
+            "Suicide": 1
+        },
+        "pouvoirs_15pp": {
+            "Membre exotique (griffes précision +0 puissance": null,
+            "Éventration": 1
+        },
+        "pouvoirs_20pp": {
+            "Armure corporelle": 1
+        },
+        "pouvoirs_25pp": {
+            "Hurlement démoniaque": 1
+        },
+        "pouvoirs_30pp": {
+            "Voix impérieuse": 1
+        }
+    },
+    {
+        "superieur": "Gaziel",
+        "caracs": {
+            "Force": 3,
+            "Agilite": 3,
+            "Perception": 5,
+            "Volonte": 3,
+            "Presence": 2,
+            "Foi": 2
+        },
+        "talents": {
+            "Attaque": 5,
+            "Défense": 5,
+            "Physique": 4,
+            "Mental": 4,
+            "Social": 3
+        },
+        "pouvoirs_vanilla": {
+            "Membre exotique (griffes précision +0 puissance +4)": null,
+            "Déphasage": 1,
+            "Onde de choc": 2,
+            "Séisme": 1
+        },
+        "pouvoirs_15pp": {
+            "Armure corporelle": 1
+        },
+        "pouvoirs_20pp": {
+            "Contrôle des animaux": 1
+        },
+        "pouvoirs_25pp": {
+            "Sens surdéveloppés": null,
+            "Télékinésie": 1
+        },
+        "pouvoirs_30pp": {
+            "Téléportation": 1
+        }
+    },
+    {
+        "superieur": "Haagenti",
+        "caracs": {
+            "Force": 3,
+            "Agilite": 4,
+            "Perception": 3,
+            "Volonte": 3,
+            "Presence": 3,
+            "Foi": 2
+        },
+        "talents": {
+            "Attaque": 4,
+            "Défense": 3,
+            "Physique": 3,
+            "Mental": 4,
+            "Social": 5,
+            "Humour": 6
+        },
+        "pouvoirs_vanilla": {
+            "Membre exotique (crocs précision +3 puissance +1 portée lutte)": null,
+            "Goinfrerie": 2,
+            "Graisse": 1,
+            "Illusions": 1
+        },
+        "pouvoirs_15pp": {
+            "": null,
+            "Rebond": 1
+        },
+        "pouvoirs_20pp": {
+            "Immunité contre les maladies et les poisons": null,
+            "Élastique": 1
+        },
+        "pouvoirs_25pp": {
+            "Polymorphie": 1
+        },
+        "pouvoirs_30pp": {
+            "Charme": 1
+        }
+    },
+    {
+        "superieur": "Kobal",
+        "caracs": {
+            "Force": 2,
+            "Agilite": 4,
+            "Perception": 3,
+            "Volonte": 3,
+            "Presence": 4,
+            "Foi": 2
+        },
+        "talents": {
+            "Attaque": 3,
+            "Défense": 4,
+            "Physique": 3,
+            "Mental": 4,
+            "Social": 5,
+            "Humour": 7
+        },
+        "pouvoirs_vanilla": {
+            "Gag absurde": 2,
+            "Illusions": 1,
+            "Invisibilité": 1
+        },
+        "pouvoirs_15pp": {
+            "Polymorphie": 1
+        },
+        "pouvoirs_20pp": {
+            "Élastique": 1
+        },
+        "pouvoirs_25pp": {
+            "Voix impérieuse": 1
+        },
+        "pouvoirs_30pp": {
+            "Lire les pensées": 1
+        }
+    },
+    {
+        "superieur": "Kronos",
+        "caracs": {
+            "Force": 2,
+            "Agilite": 2,
+            "Perception": 3,
+            "Volonte": 5,
+            "Presence": 2,
+            "Foi": 4
+        },
+        "talents": {
+            "Attaque": 2,
+            "Défense": 3,
+            "Physique": 2,
+            "Mental": 6,
+            "Social": 4,
+            "Discussion": 6,
+            "Savoir occulte": 7
+        },
+        "pouvoirs_vanilla": {
+            "Déplacement temporel": 1,
+            "Détection du futur proche": 1,
+            "Projection temporelle": 2
+        },
+        "pouvoirs_15pp": {
+            "Télépathie": 1
+        },
+        "pouvoirs_20pp": {
+            "Protection de": null,
+            "Volonte supra-normale": 1
+        },
+        "pouvoirs_25pp": {
+            "Paralysie": 1
+        },
+        "pouvoirs_30pp": {
+            "Téléportation": 1
+        }
+    },
+    {
+        "superieur": "Malphas",
+        "caracs": {
+            "Force": 2,
+            "Agilite": 2,
+            "Perception": 3,
+            "Volonte": 3,
+            "Presence": 5,
+            "Foi": 3
+        },
+        "talents": {
+            "Attaque": 2,
+            "Défense": 3,
+            "Physique": 2,
+            "Mental": 4,
+            "Social": 6,
+            "Baratin": 7
+        },
+        "pouvoirs_vanilla": {
+            "Détection du mensonge": 1,
+            "Discorde": 2,
+            "Lire les pensées": 1
+        },
+        "pouvoirs_15pp": {
+            "Aura de confusion": 1
+        },
+        "pouvoirs_20pp": {
+            "Charme": 1
+        },
+        "pouvoirs_25pp": {
+            "Cauchemar": 1
+        },
+        "pouvoirs_30pp": {
+            "Esprits multiples": 1,
+            "Volonte supra-normale": 1
+        }
+    },
+    {
+        "superieur": "Malthus",
+        "caracs": {
+            "Force": 3,
+            "Agilite": 3,
+            "Perception": 2,
+            "Volonte": 4,
+            "Presence": 2,
+            "Foi": 4
+        },
+        "talents": {
+            "Attaque": 3,
+            "Défense": 3,
+            "Physique": 3,
+            "Mental": 3,
+            "Social": 4
+        },
+        "pouvoirs_vanilla": {
+            "Immunité contre les maladies et les poisons": null,
+            "Infection": 2,
+            "Maladie": 1,
+            "Membre exotique (ongles d'acier précision +2 puissance +2)": null,
+            "Paralysie": 1
+        },
+        "pouvoirs_15pp": {
+            "Malédiction : maladie": 1
+        },
+        "pouvoirs_20pp": {
+            "Douleur": 1
+        },
+        "pouvoirs_25pp": {
+            "Ténébres sataniques": 1
+        },
+        "pouvoirs_30pp": {
+            "Larves sous-cutanées": 1
+        }
+    },
+    {
+        "superieur": "Mammon",
+        "caracs": {
+            "Force": 2,
+            "Agilite": 2,
+            "Perception": 2,
+            "Volonte": 4,
+            "Presence": 5,
+            "Foi": 3
+        },
+        "talents": {
+            "Attaque": 2,
+            "Défense": 2,
+            "Physique": 2,
+            "Mental": 6,
+            "Social": 5
+        },
+        "pouvoirs_vanilla": {
+            "Corruption": 2,
+            "Charme": 1,
+            "Lire les pensées": 1
+        },
+        "pouvoirs_15pp": {
+            "Langage universel": null
+        },
+        "pouvoirs_20pp": {
+            "Volonte supra-normale": 1
+        },
+        "pouvoirs_25pp": {
+            "Détection des mensonges": 1
+        },
+        "pouvoirs_30pp": {
+            "Télépathie": 1
+        }
+    },
+    {
+        "superieur": "Morax",
+        "caracs": {
+            "Force": 2,
+            "Agilite": 2,
+            "Perception": 3,
+            "Volonte": 3,
+            "Presence": 4,
+            "Foi": 4
+        },
+        "talents": {
+            "Attaque": 2,
+            "Défense": 3,
+            "Physique": 2,
+            "Mental": 4,
+            "Social": 5,
+            "Arts": 7
+        },
+        "pouvoirs_vanilla": {
+            "Charme": 1,
+            "Lire les pensées": 1,
+            "Oeuvre d'art": null,
+            "Peur": 1,
+            "Volonte supra- normale": 1
+        },
+        "pouvoirs_15pp": {
+            "Malédiction : folie": 1
+        },
+        "pouvoirs_20pp": {
+            "Polymorphie": 1
+        },
+        "pouvoirs_25pp": {
+            "Illusions": 1
+        },
+        "pouvoirs_30pp": {
+            "Télépathie": 1
+        }
+    },
+    {
+        "superieur": "Nisroch",
+        "caracs": {
+            "Force": 3,
+            "Agilite": 2,
+            "Perception": 2,
+            "Volonte": 4,
+            "Presence": 4,
+            "Foi": 3
+        },
+        "talents": {
+            "Attaque": 4,
+            "Défense": 5,
+            "Physique": 4,
+            "Mental": 5,
+            "Social": 4,
+            "Savoir criminel": 7
+        },
+        "pouvoirs_vanilla": {
+            "Accoutumance": 2,
+            "Aura d'inattention": 1,
+            "Lire les pensées": 1
+        },
+        "pouvoirs_15pp": {
+            "Membre exotique (petites cornes précision 2 puissance": null,
+            "Volonte supra-normale": 1
+        },
+        "pouvoirs_20pp": {
+            "Boomerang": 1
+        },
+        "pouvoirs_25pp": {
+            "Charme": 1
+        },
+        "pouvoirs_30pp": {
+            "Téléportation": 1
+        }
+    },
+    {
+        "superieur": "Nog",
+        "caracs": {
+            "Force": 3,
+            "Agilite": 2,
+            "Perception": 2,
+            "Volonte": 3,
+            "Presence": 3,
+            "Foi": 5
+        },
+        "talents": {
+            "Attaque": 3,
+            "Défense": 4,
+            "Physique": 3,
+            "Mental": 2,
+            "Social": 3,
+            "Narcolepsie": 4
+        },
+        "pouvoirs_vanilla": {
+            "Glandage": 2,
+            "Sommeil": 2
+        },
+        "pouvoirs_15pp": {
+            "Non-détection": 1
+        },
+        "pouvoirs_20pp": {
+            "Polymorphie": 1
+        },
+        "pouvoirs_25pp": {
+            "Domination": 1
+        },
+        "pouvoirs_30pp": {
+            "Déplacement temporel": 1
+        }
+    },
+    {
+        "superieur": "Nybbas",
+        "caracs": {
+            "Force": 2,
+            "Agilite": 2,
+            "Perception": 3,
+            "Volonte": 4,
+            "Presence": 5,
+            "Foi": 2
+        },
+        "talents": {
+            "Attaque": 2,
+            "Défense": 3,
+            "Physique": 2,
+            "Mental": 4,
+            "Social": 6
+        },
+        "pouvoirs_vanilla": {
+            "Charme": 2,
+            "Lire les pensées": 1,
+            "Message subliminal": null,
+            "Sommeil": 1
+        },
+        "pouvoirs_15pp": {
+            "Télépathie 1 partir de 20": null,
+            "Détection du mensonge": 1
+        },
+        "pouvoirs_20pp": {
+            "Polymorphie": 1
+        },
+        "pouvoirs_25pp": {
+            "Cauchemar": 1
+        },
+        "pouvoirs_30pp": {
+            "Polymorphie": 1
+        }
+    },
+    {
+        "superieur": "Ouikka",
+        "caracs": {
+            "Force": 4,
+            "Agilite": 4,
+            "Perception": 3,
+            "Volonte": 2,
+            "Presence": 3,
+            "Foi": 2
+        },
+        "talents": {
+            "Attaque": 6,
+            "Défense": 4,
+            "Physique": 5,
+            "Mental": 3,
+            "Social": 3,
+            "Savoir criminel": 5
+        },
+        "pouvoirs_vanilla": {
+            "Disparition 1Invisibilité": 2,
+            "Non-détection": 1
+        },
+        "pouvoirs_15pp": {
+            "Téléportation": 1
+        },
+        "pouvoirs_20pp": {
+            "VoI": 1
+        },
+        "pouvoirs_25pp": {
+            "Jet de flammes": 1
+        },
+        "pouvoirs_30pp": {
+            "Détection du danger": 1
+        }
+    },
+    {
+        "superieur": "Samigina",
+        "caracs": {
+            "Force": 3,
+            "Agilite": 4,
+            "Perception": 3,
+            "Volonte": 3,
+            "Presence": 3,
+            "Foi": 2
+        },
+        "talents": {
+            "Attaque": 5,
+            "Défense": 5,
+            "Physique": 5,
+            "Mental": 3,
+            "Social": 5
+        },
+        "pouvoirs_vanilla": {
+            "Baiser vampirique": 2,
+            "Charme": 1,
+            "Membre exotique (crocs précision +3 puissance +1 portée lutte)": null,
+            "Obscurité": 1
+        },
+        "pouvoirs_15pp": {
+            "Corps gazeux": null
+        },
+        "pouvoirs_20pp": {
+            "Contrôle des animaux": 1
+        },
+        "pouvoirs_25pp": {
+            "Peur": 1,
+            "vol": 1
+        },
+        "pouvoirs_30pp": {
+            "Détection du danger": 1
+        }
+    },
+    {
+        "superieur": "Scox",
+        "caracs": {
+            "Force": 2,
+            "Agilite": 2,
+            "Perception": 2,
+            "Volonte": 4,
+            "Presence": 5,
+            "Foi": 3
+        },
+        "talents": {
+            "Attaque": 2,
+            "Défense": 3,
+            "Physique": 3,
+            "Mental": 4,
+            "Social": 6,
+            "Hypnotisme": 7
+        },
+        "pouvoirs_vanilla": {
+            "Charme": 2,
+            "Possession": 1,
+            "Lire les pensées": 1
+        },
+        "pouvoirs_15pp": {
+            "Déguisement superficiel": 1
+        },
+        "pouvoirs_20pp": {
+            "Illusions": 1
+        },
+        "pouvoirs_25pp": {
+            "Domination": 1
+        },
+        "pouvoirs_30pp": {
+            "Détection du futur proche": 1
+        }
+    },
+    {
+        "superieur": "Shaytan",
+        "caracs": {
+            "Force": 4,
+            "Agilite": 3,
+            "Perception": 3,
+            "Volonte": 3,
+            "Presence": 2,
+            "Foi": 3
+        },
+        "talents": {
+            "Attaque": 5,
+            "Défense": 4,
+            "Physique": 4,
+            "Mental": 3,
+            "Social": 2,
+            "Baratin": 5
+        },
+        "pouvoirs_vanilla": {
+            "Décrépitude": 2,
+            "Malédiction : laideur 1Peur": 1
+        },
+        "pouvoirs_15pp": {
+            "Membre exotique (griffes précision +0 puissance": null,
+            "Armure corporelle": 1
+        },
+        "pouvoirs_20pp": {
+            "Douleur": 1
+        },
+        "pouvoirs_25pp": {
+            "Charme": 1
+        },
+        "pouvoirs_30pp": {
+            "Hurlement démoniaque": 1
+        }
+    },
+    {
+        "superieur": "Uphir",
+        "caracs": {
+            "Force": 4,
+            "Agilite": 3,
+            "Perception": 4,
+            "Volonte": 3,
+            "Presence": 2,
+            "Foi": 2
+        },
+        "talents": {
+            "Attaque": 4,
+            "Défense": 5,
+            "Physique": 4,
+            "Mental": 3,
+            "Social": 3
+        },
+        "pouvoirs_vanilla": {
+            "Immunité contre l'acide": null,
+            "Peau acide": 1,
+            "Jet d'acide": 2,
+            "Vengeance toxique": 1
+        },
+        "pouvoirs_15pp": {
+            "Immunité contre les maladies et les poisons": null,
+            "Corps liquide": null
+        },
+        "pouvoirs_20pp": {
+            "Adhérence": 1,
+            "Membre exotique (crocs précision +3 puissance +1 portée": null
+        },
+        "pouvoirs_25pp": {
+            "Poison": 1
+        },
+        "pouvoirs_30pp": {
+            "Ténébres sataniques": 1
+        }
+    },
+    {
+        "superieur": "Valefor",
+        "caracs": {
+            "Force": 2,
+            "Agilite": 5,
+            "Perception": 3,
+            "Volonte": 3,
+            "Presence": 3,
+            "Foi": 2
+        },
+        "talents": {
+            "Attaque": 4,
+            "Défense": 5,
+            "Physique": 4,
+            "Mental": 4,
+            "Social": 5,
+            "Pickpocket": 7
+        },
+        "pouvoirs_vanilla": {
+            "Déguisement superficiel": 1,
+            "Obscurité": 1,
+            "Ouverture": 2
+        },
+        "pouvoirs_15pp": {
+            "Charme": 1
+        },
+        "pouvoirs_20pp": {
+            "Invisibilité": 1
+        },
+        "pouvoirs_25pp": {
+            "Corps gazeux": null
+        },
+        "pouvoirs_30pp": {
+            "revolver petit calibre maudit majeur (précision +2 puissance +7 pénétration importante portée": null
+        }
+    },
+    {
+        "superieur": "Vapula",
+        "caracs": {
+            "Force": 2,
+            "Agilite": 2,
+            "Perception": 3,
+            "Volonte": 5,
+            "Presence": 2,
+            "Foi": 4
+        },
+        "talents": {
+            "Attaque": 2,
+            "Défense": 2,
+            "Physique": 3,
+            "Mental": 5,
+            "Social": 3,
+            "Science": 6,
+            "Technique": 7
+        },
+        "pouvoirs_vanilla": {
+            "Boomerang": 1,
+            "Invention": 2,
+            "Volonte supra-normale": 1
+        },
+        "pouvoirs_15pp": {
+            "Protection de": null,
+            "Esprits multiples": 1
+        },
+        "pouvoirs_20pp": {
+            "Membre exotique (griffes précision +0 puissance": null,
+            "Poltergeist": 1
+        },
+        "pouvoirs_25pp": {
+            "Parasite intellectuel": 1
+        },
+        "pouvoirs_30pp": {
+            "Cauchemar": 1
+        }
+    },
+    {
+        "superieur": "Vephar",
+        "caracs": {
+            "Force": 4,
+            "Agilite": 3,
+            "Perception": 4,
+            "Volonte": 3,
+            "Presence": 2,
+            "Foi": 2
+        },
+        "talents": {
+            "Attaque": 5,
+            "Défense": 5,
+            "Physique": 4,
+            "Mental": 3,
+            "Social": 3,
+            "Navigation": 7
+        },
+        "pouvoirs_vanilla": {
+            "Anaérobiose": null,
+            "Membre exotique (queue blindée précision +0 puissance +3 non-létal)": null,
+            "Vie subaquatique": 2,
+            "Vitesse": 1
+        },
+        "pouvoirs_15pp": {
+            "Poison": 1
+        },
+        "pouvoirs_20pp": {
+            "Armure corporelle (écailles)": 1
+        },
+        "pouvoirs_25pp": {
+            "trident maudit majeur (précision +3 puissance +5 adapté à la": null
+        },
+        "pouvoirs_30pp": {
+            "Contrôle des animaux": 1,
+            "Corps liquide": null
+        }
+    }
+]
